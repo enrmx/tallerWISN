@@ -1,0 +1,6 @@
+@tallerWISN_HostAddress = http://localhost:5018
+
+GET {{tallerWISN_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
